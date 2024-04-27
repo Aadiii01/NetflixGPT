@@ -1,0 +1,10 @@
+.cl {
+    text-overflow: ellipsis;
+    transition-property: top, font-size, line-height;
+    transition-duration: 250ms;
+    pointer-events: none;
+    transition-timing-function: cubic-bezier(0.5, 0, 0.1, 1);
+    left: 1rem;
+    right: 1rem;
+    top: 0.5rem;
+}

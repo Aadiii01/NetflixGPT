@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/netflix-font');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'HelvicEB';
+    src: url('./Utils/fonts/HelveticaNeueLTW0693BlkExtObl.ttf');
+}
+@font-face {
+    font-family: 'HelvicBK';
+    src: url('./Utils/fonts/HelveticaNeueLTW0697BlkCnObl.ttf');
+}
+@font-face {
+    font-family: 'HelvicMED';
+    src: url('./Utils/fonts/HelveticaNeueMediumExtended.ttf');
+}
+@font-face {
+    font-family: 'HelvicUL';
+    src: url('./Utils/fonts/HelveticaNeueUltraLight.ttf');
+}
+@font-face {
+    font-family: 'HelvicHv';
+    src: url('./Utils/fonts/HelveticaNeueW0187HvCnObl.ttf');
+}
+@font-face {
+    font-family: 'HelvicBd';
+    src: url('./Utils/fonts/HelveticaNeueW07BdCnObl.ttf');
+}
+
+@font-face {
+    font-family: 'NetflixB';
+    src: url('./Utils/fonts/NetflixSans-Bold.otf');
+}
+@font-face {
+    font-family: 'NetflixM';
+    src: url('./Utils/fonts/NetflixSans-Medium.otf');
+}
+@font-face {
+    font-family: 'NetflixR';
+    src: url('./Utils/fonts/NetflixSans-Regular.otf');
+}
+@font-face {
+    font-family: 'NetflixL';
+    src: url('./Utils/fonts/NetflixSans-Light.otf');
+}
+@font-face {
+    font-family: 'NetflixT';
+    src: url('./Utils/fonts/NetflixSans_Th.ttf');
+}
